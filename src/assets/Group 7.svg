@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="452" height="231" viewBox="0 0 452 231">
+  <defs>
+    <filter id="Rectangle_30" x="0" y="0" width="452" height="231" filterUnits="userSpaceOnUse">
+      <feOffset dx="30" dy="30" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="30" result="blur"/>
+      <feFlood flood-opacity="0.278"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_7" data-name="Group 7" transform="translate(-1297 10)">
+    <g transform="matrix(1, 0, 0, 1, 1297, -10)" filter="url(#Rectangle_30)">
+      <rect id="Rectangle_30-2" data-name="Rectangle 30" width="272" height="51" rx="25.5" transform="translate(60 60)" fill="#fff"/>
+    </g>
+    <text id="_1_829_544-2948" data-name="+1 (829) 544-2948" transform="translate(1385 84)" fill="#1a1a1a" font-size="20" font-family="Lato-Regular, Lato" letter-spacing="0.041em"><tspan x="0" y="0">+1 (829) 544-2948</tspan></text>
+    <circle id="Ellipse_9" data-name="Ellipse 9" cx="21" cy="21" r="21" transform="translate(1582 54)" fill="#60be1b"/>
+    <path id="Path_29" data-name="Path 29" d="M625.841,18.106a4.639,4.639,0,0,1,.22-.526,15.188,15.188,0,0,1,2.217-2.994,19.168,19.168,0,0,1,1.609-1.513,1.243,1.243,0,0,1,1.911.275,25.044,25.044,0,0,1,2.692,4.421,5.44,5.44,0,0,1,.235.673,1.047,1.047,0,0,1-.225,1.066c-.351.374-.736.716-1.122,1.055-.495.434-.508.43-.248,1.035a9.787,9.787,0,0,0,5.653,5.469.382.382,0,0,0,.524-.132c.3-.386.636-.751.966-1.116a1.355,1.355,0,0,1,1.676-.383,10.857,10.857,0,0,1,1.332.625c1.131.691,2.242,1.414,3.354,2.136a1.568,1.568,0,0,1,.662.976.8.8,0,0,1-.072.626,4.725,4.725,0,0,1-.471.7,18.341,18.341,0,0,1-4.121,3.441,2.022,2.022,0,0,1-1.591.153,15.084,15.084,0,0,1-5.3-2.244,24.526,24.526,0,0,1-8.171-8.607,13.6,13.6,0,0,1-1.655-4.506c-.03-.184-.047-.369-.08-.635" transform="translate(966.159 51.265)" fill="#fff"/>
+  </g>
+</svg>

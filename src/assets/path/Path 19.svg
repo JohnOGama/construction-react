@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1087.461" height="1347.999" viewBox="0 0 1087.461 1347.999">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#60be1b"/>
+      <stop offset="1" stop-color="#a8e063"/>
+    </linearGradient>
+    <filter id="Path_19" x="0" y="0" width="1087.461" height="1347.999" filterUnits="userSpaceOnUse">
+      <feOffset dx="30" dy="30" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="30" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Path_19)">
+    <path id="Path_19-2" data-name="Path 19" d="M895.894,0c-36.07.04-73.767,10.244-106.144,26.014-65.24,31.776-121.121,81.837-189.2,106.969-114.5,42.27-237.874,7.629-353.273-11.711C182.712,110.452-6.9,72.677.194,186.691c1.8,28.958,18.855,55.068,39.86,75.083,24.753,23.588,54.61,39.936,86.9,50.818,40.441,13.626,84.7,18.678,127.519,18.635,77.012-.076,153.652-14.192,230.626-11.755s158.235,24.581,208.527,82.906c35.782,41.5,51.708,96.2,64.017,149.6S780.014,660.429,807,708.125c35.882,63.424,106.716,103.373,179.961,85.382,57.552-14.134,103.4-69.779,103.619-128.164v-.869a109.777,109.777,0,0,0-1.318-16.569c-10.944-69.809-79.5-116.71-102.563-183.5-24.287-70.351,5.941-146.233,27.827-217.367S1046.306,88.47,993.416,36.109C967.539,10.491,932.777.04,896.32,0Z" transform="matrix(-0.1, 0.99, -0.99, -0.1, 967.46, 143.4)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

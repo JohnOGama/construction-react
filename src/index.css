@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: Gotham-black;
+  src: url(./Gotham-Font/Gotham-Black.otf);
+}
+@font-face {
+  font-family: Gotham-book;
+  src: url(./Gotham-Font/GothamBook.ttf);
+}
+@font-face {
+  font-family: Gotham-lt;
+  src: url(./Gotham-Font/GothamLightItalic.ttf);
+}
+
+@font-face {
+  font-family: Gotham-light;
+  src: url(./Gotham-Font/Gotham-Light.otf);
+}
+
+.gotham-light {
+  font-family: Gotham-light;
+}
+
+.gotham-black {
+  font-family: Gotham-black;
+}
+
+.gotham-book {
+  font-family: Gotham-book;
+}
+
+.gotham-light-italic {
+  font-family: Gotham-lt;
+}
+
+body {
+  background-color: #f1ffdf;
+}
